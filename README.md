@@ -144,7 +144,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/hashzz"><img alt="hashzz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hashzz&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/hashzz"><img alt="hashzz Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hashzz&custom_title=Hash%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
