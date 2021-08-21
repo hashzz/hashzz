@@ -155,3 +155,8 @@
 
 * Credit: [Hash](https://github.com/hashzz)
 * Last Edited on: 12/08/2021
+
+<p align="center">
+    <br>Number of views: <br>
+    <img src="https://profile-counter.glitch.me/hashzz/count.svg" />
+</p>
